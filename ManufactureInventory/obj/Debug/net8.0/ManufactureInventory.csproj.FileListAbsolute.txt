@@ -1,0 +1,14 @@
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/bin/Debug/net8.0/ManufactureInventory
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/bin/Debug/net8.0/ManufactureInventory.deps.json
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/bin/Debug/net8.0/ManufactureInventory.runtimeconfig.json
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/bin/Debug/net8.0/ManufactureInventory.dll
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/bin/Debug/net8.0/ManufactureInventory.pdb
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/obj/Debug/net8.0/ManufactureInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/obj/Debug/net8.0/ManufactureInventory.AssemblyInfoInputs.cache
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/obj/Debug/net8.0/ManufactureInventory.AssemblyInfo.cs
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/obj/Debug/net8.0/ManufactureInventory.csproj.CoreCompileInputs.cache
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/obj/Debug/net8.0/ManufactureInventory.dll
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/obj/Debug/net8.0/refint/ManufactureInventory.dll
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/obj/Debug/net8.0/ManufactureInventory.pdb
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/obj/Debug/net8.0/ManufactureInventory.genruntimeconfig.cache
+/Users/anthonybonello/Projects/CsharpProjects/ManufactureInventory/obj/Debug/net8.0/ref/ManufactureInventory.dll

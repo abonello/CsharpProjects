@@ -1,0 +1,14 @@
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/bin/Debug/net8.0/FraudulentOrdersAnalyzer
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/bin/Debug/net8.0/FraudulentOrdersAnalyzer.deps.json
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/bin/Debug/net8.0/FraudulentOrdersAnalyzer.runtimeconfig.json
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/bin/Debug/net8.0/FraudulentOrdersAnalyzer.dll
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/bin/Debug/net8.0/FraudulentOrdersAnalyzer.pdb
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/obj/Debug/net8.0/FraudulentOrdersAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/obj/Debug/net8.0/FraudulentOrdersAnalyzer.AssemblyInfoInputs.cache
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/obj/Debug/net8.0/FraudulentOrdersAnalyzer.AssemblyInfo.cs
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/obj/Debug/net8.0/FraudulentOrdersAnalyzer.csproj.CoreCompileInputs.cache
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/obj/Debug/net8.0/FraudulentOrdersAnalyzer.dll
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/obj/Debug/net8.0/refint/FraudulentOrdersAnalyzer.dll
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/obj/Debug/net8.0/FraudulentOrdersAnalyzer.pdb
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/obj/Debug/net8.0/FraudulentOrdersAnalyzer.genruntimeconfig.cache
+/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/obj/Debug/net8.0/ref/FraudulentOrdersAnalyzer.dll

@@ -1,0 +1,14 @@
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/bin/Debug/net8.0/RenewalApp
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/bin/Debug/net8.0/RenewalApp.deps.json
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/bin/Debug/net8.0/RenewalApp.runtimeconfig.json
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/bin/Debug/net8.0/RenewalApp.dll
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/bin/Debug/net8.0/RenewalApp.pdb
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/obj/Debug/net8.0/RenewalApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/obj/Debug/net8.0/RenewalApp.AssemblyInfoInputs.cache
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/obj/Debug/net8.0/RenewalApp.AssemblyInfo.cs
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/obj/Debug/net8.0/RenewalApp.csproj.CoreCompileInputs.cache
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/obj/Debug/net8.0/RenewalApp.dll
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/obj/Debug/net8.0/refint/RenewalApp.dll
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/obj/Debug/net8.0/RenewalApp.pdb
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/obj/Debug/net8.0/RenewalApp.genruntimeconfig.cache
+/Users/anthonybonello/Projects/CsharpProjects/RenewalApp/obj/Debug/net8.0/ref/RenewalApp.dll

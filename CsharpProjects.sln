@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{385EE207-70ED-4EA9-8CCC-4B67897B48FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RenewalApp", "RenewalApp\RenewalApp.csproj", "{C0452246-DF82-44CD-847A-900512C90B1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FraudulentOrdersAnalyzer", "FraudulentOrdersAnalyzer\FraudulentOrdersAnalyzer.csproj", "{A2A0CC24-079F-4BE6-82D5-0710F82CB3FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManufactureInventory", "ManufactureInventory\ManufactureInventory.csproj", "{3C29F8CB-A00A-4066-A3F6-34BAFCC806EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceGame", "DiceGame\DiceGame.csproj", "{FBF42190-F699-4A73-BC91-3E83965880C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpdatedGradeMarker", "UpdatedGradeMarker\UpdatedGradeMarker.csproj", "{0E1A61D9-52E8-401E-9132-7434771834F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385EE207-70ED-4EA9-8CCC-4B67897B48FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385EE207-70ED-4EA9-8CCC-4B67897B48FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385EE207-70ED-4EA9-8CCC-4B67897B48FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385EE207-70ED-4EA9-8CCC-4B67897B48FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0452246-DF82-44CD-847A-900512C90B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0452246-DF82-44CD-847A-900512C90B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0452246-DF82-44CD-847A-900512C90B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0452246-DF82-44CD-847A-900512C90B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A0CC24-079F-4BE6-82D5-0710F82CB3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A0CC24-079F-4BE6-82D5-0710F82CB3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A0CC24-079F-4BE6-82D5-0710F82CB3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A0CC24-079F-4BE6-82D5-0710F82CB3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C29F8CB-A00A-4066-A3F6-34BAFCC806EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C29F8CB-A00A-4066-A3F6-34BAFCC806EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C29F8CB-A00A-4066-A3F6-34BAFCC806EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C29F8CB-A00A-4066-A3F6-34BAFCC806EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF42190-F699-4A73-BC91-3E83965880C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF42190-F699-4A73-BC91-3E83965880C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF42190-F699-4A73-BC91-3E83965880C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF42190-F699-4A73-BC91-3E83965880C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1A61D9-52E8-401E-9132-7434771834F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1A61D9-52E8-401E-9132-7434771834F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1A61D9-52E8-401E-9132-7434771834F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1A61D9-52E8-401E-9132-7434771834F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8223A4F-B90F-4FF2-9AC5-46F2F243FBAA}
+	EndGlobalSection
+EndGlobal
