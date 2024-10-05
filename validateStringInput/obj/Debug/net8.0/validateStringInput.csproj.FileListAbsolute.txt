@@ -1,0 +1,15 @@
+C:\Git\CsharpProjects\validateStringInput\bin\Debug\net8.0\validateStringInput.exe
+C:\Git\CsharpProjects\validateStringInput\bin\Debug\net8.0\validateStringInput.deps.json
+C:\Git\CsharpProjects\validateStringInput\bin\Debug\net8.0\validateStringInput.runtimeconfig.json
+C:\Git\CsharpProjects\validateStringInput\bin\Debug\net8.0\validateStringInput.dll
+C:\Git\CsharpProjects\validateStringInput\bin\Debug\net8.0\validateStringInput.pdb
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\validateStringInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\validateStringInput.AssemblyInfoInputs.cache
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\validateStringInput.AssemblyInfo.cs
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\validateStringInput.csproj.CoreCompileInputs.cache
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\validateStringInput.dll
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\refint\validateStringInput.dll
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\validateStringInput.pdb
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\validateStringInput.genruntimeconfig.cache
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\ref\validateStringInput.dll
+C:\Git\CsharpProjects\validateStringInput\obj\Debug\net8.0\validateStringInput.sourcelink.json
