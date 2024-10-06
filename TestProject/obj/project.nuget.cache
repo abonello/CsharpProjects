@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lWqCXws56+6ZI0Wud8JXlgcLxGR4q1dvlmtBnAFsV1qkdm/1ybQeGxAIIFpWqUuYau3r3DiIqRXjJJ0tYPBpUw==",
+  "dgSpecHash": "3MxxfPn6TkE=",
   "success": true,
-  "projectFilePath": "C:\\Git\\CsharpProjects\\TestProject\\TestProject.csproj",
+  "projectFilePath": "/Users/anthonybonello/Projects/CsharpProjects/TestProject/TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

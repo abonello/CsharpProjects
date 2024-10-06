@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\CsharpProjects\\UpdatedGradeMarker\\UpdatedGradeMarker.csproj": {}
+    "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarker/UpdatedGradeMarker.csproj": {}
   },
   "projects": {
-    "C:\\Git\\CsharpProjects\\UpdatedGradeMarker\\UpdatedGradeMarker.csproj": {
+    "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarker/UpdatedGradeMarker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\CsharpProjects\\UpdatedGradeMarker\\UpdatedGradeMarker.csproj",
+        "projectUniqueName": "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarker/UpdatedGradeMarker.csproj",
         "projectName": "UpdatedGradeMarker",
-        "projectPath": "C:\\Git\\CsharpProjects\\UpdatedGradeMarker\\UpdatedGradeMarker.csproj",
-        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\CsharpProjects\\UpdatedGradeMarker\\obj\\",
+        "projectPath": "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarker/UpdatedGradeMarker.csproj",
+        "packagesPath": "/Users/anthonybonello/.nuget/packages/",
+        "outputPath": "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarker/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/anthonybonello/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

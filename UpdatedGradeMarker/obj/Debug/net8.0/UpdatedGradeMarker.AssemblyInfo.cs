@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpdatedGradeMarker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67417f839ba1f63f3e6d92f4e071c6eaf84def70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d750d234f679e1313a265112786639ba728e652")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpdatedGradeMarker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpdatedGradeMarker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

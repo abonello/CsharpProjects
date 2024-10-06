@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarkerV2/UpdatedGradeMarker.csproj",
-      "projectName": "UpdatedGradeMarker",
-      "projectPath": "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarkerV2/UpdatedGradeMarker.csproj",
+      "projectUniqueName": "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarkerV2/UpdatedGradeMarkerV2.csproj",
+      "projectName": "UpdatedGradeMarkerV2",
+      "projectPath": "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarkerV2/UpdatedGradeMarkerV2.csproj",
       "packagesPath": "/Users/anthonybonello/.nuget/packages/",
       "outputPath": "/Users/anthonybonello/Projects/CsharpProjects/UpdatedGradeMarkerV2/obj/",
       "projectStyle": "PackageReference",

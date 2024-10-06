@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kg5T9B1/9445od9+nDX4Obnh+2j0bvWG0JradJTBO0wUWOOH7/Hgnj+6vMZWh0gZnQk+8Zh71XaUA7bjPEzzdQ==",
+  "dgSpecHash": "QKXjhMPMNm0=",
   "success": true,
-  "projectFilePath": "C:\\Git\\CsharpProjects\\FraudulentOrdersAnalyzer\\FraudulentOrdersAnalyzer.csproj",
+  "projectFilePath": "/Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/FraudulentOrdersAnalyzer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

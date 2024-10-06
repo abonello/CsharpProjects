@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FraudulentOrdersAnalyzer
-build_property.ProjectDir = C:\Git\CsharpProjects\FraudulentOrdersAnalyzer\
+build_property.ProjectDir = /Users/anthonybonello/Projects/CsharpProjects/FraudulentOrdersAnalyzer/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
