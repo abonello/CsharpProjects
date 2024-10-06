@@ -1,0 +1,15 @@
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/bin/Debug/net8.0/coinFlip
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/bin/Debug/net8.0/coinFlip.deps.json
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/bin/Debug/net8.0/coinFlip.runtimeconfig.json
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/bin/Debug/net8.0/coinFlip.dll
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/bin/Debug/net8.0/coinFlip.pdb
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/coinFlip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/coinFlip.AssemblyInfoInputs.cache
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/coinFlip.AssemblyInfo.cs
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/coinFlip.csproj.CoreCompileInputs.cache
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/coinFlip.sourcelink.json
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/coinFlip.dll
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/refint/coinFlip.dll
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/coinFlip.pdb
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/coinFlip.genruntimeconfig.cache
+/Users/anthonybonello/Projects/CsharpProjects/coinFlip/obj/Debug/net8.0/ref/coinFlip.dll
