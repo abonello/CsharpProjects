@@ -1,0 +1,15 @@
+C:\Git\CsharpProjects\booleanTestProject\bin\Debug\net8.0\booleanTestProject.exe
+C:\Git\CsharpProjects\booleanTestProject\bin\Debug\net8.0\booleanTestProject.deps.json
+C:\Git\CsharpProjects\booleanTestProject\bin\Debug\net8.0\booleanTestProject.runtimeconfig.json
+C:\Git\CsharpProjects\booleanTestProject\bin\Debug\net8.0\booleanTestProject.dll
+C:\Git\CsharpProjects\booleanTestProject\bin\Debug\net8.0\booleanTestProject.pdb
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\booleanTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\booleanTestProject.AssemblyInfoInputs.cache
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\booleanTestProject.AssemblyInfo.cs
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\booleanTestProject.csproj.CoreCompileInputs.cache
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\booleanTestProject.sourcelink.json
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\booleanTestProject.dll
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\refint\booleanTestProject.dll
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\booleanTestProject.pdb
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\booleanTestProject.genruntimeconfig.cache
+C:\Git\CsharpProjects\booleanTestProject\obj\Debug\net8.0\ref\booleanTestProject.dll

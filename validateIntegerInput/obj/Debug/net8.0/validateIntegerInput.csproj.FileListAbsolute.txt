@@ -1,0 +1,15 @@
+C:\Git\CsharpProjects\validateIntegerInput\bin\Debug\net8.0\validateIntegerInput.exe
+C:\Git\CsharpProjects\validateIntegerInput\bin\Debug\net8.0\validateIntegerInput.deps.json
+C:\Git\CsharpProjects\validateIntegerInput\bin\Debug\net8.0\validateIntegerInput.runtimeconfig.json
+C:\Git\CsharpProjects\validateIntegerInput\bin\Debug\net8.0\validateIntegerInput.dll
+C:\Git\CsharpProjects\validateIntegerInput\bin\Debug\net8.0\validateIntegerInput.pdb
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\validateIntegerInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\validateIntegerInput.AssemblyInfoInputs.cache
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\validateIntegerInput.AssemblyInfo.cs
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\validateIntegerInput.csproj.CoreCompileInputs.cache
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\validateIntegerInput.dll
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\refint\validateIntegerInput.dll
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\validateIntegerInput.pdb
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\validateIntegerInput.genruntimeconfig.cache
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\ref\validateIntegerInput.dll
+C:\Git\CsharpProjects\validateIntegerInput\obj\Debug\net8.0\validateIntegerInput.sourcelink.json
