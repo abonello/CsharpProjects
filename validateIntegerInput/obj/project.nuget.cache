@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kE2HS4w+yfgCItObOQ9vm/sWLEUoSgCZ+WVeWDoT/J7j5KFTmnb7RpvnmNPnTEoxD0CLZs1IyorwoFOCjRu2LQ==",
+  "dgSpecHash": "+ohCT+bnMag=",
   "success": true,
-  "projectFilePath": "C:\\Git\\CsharpProjects\\validateIntegerInput\\validateIntegerInput.csproj",
+  "projectFilePath": "/Users/anthonybonello/Projects/CsharpProjects/validateIntegerInput/validateIntegerInput.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

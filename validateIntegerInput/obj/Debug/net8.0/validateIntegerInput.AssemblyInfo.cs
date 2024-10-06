@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("validateIntegerInput")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b89d907df215e9f0142b80bd26708568975b953d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4f4f0601d3ba4026c3d84456518c81c37fcb759")]
 [assembly: System.Reflection.AssemblyProductAttribute("validateIntegerInput")]
 [assembly: System.Reflection.AssemblyTitleAttribute("validateIntegerInput")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
