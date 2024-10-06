@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validateStringInput", "vali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coinFlip", "coinFlip\coinFlip.csproj", "{90592298-A3E7-4646-8241-0E06A1E5B0B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theForLoop", "theForLoop\theForLoop.csproj", "{C5755335-19AA-44F7-B70D-563D7C9C3524}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{90592298-A3E7-4646-8241-0E06A1E5B0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90592298-A3E7-4646-8241-0E06A1E5B0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90592298-A3E7-4646-8241-0E06A1E5B0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5755335-19AA-44F7-B70D-563D7C9C3524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5755335-19AA-44F7-B70D-563D7C9C3524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5755335-19AA-44F7-B70D-563D7C9C3524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5755335-19AA-44F7-B70D-563D7C9C3524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
