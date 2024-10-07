@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exploreDoWhile", "exploreDo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exploreWhile", "exploreWhile\exploreWhile.csproj", "{0F2F548C-859B-46BC-BB24-B850D4D8204E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roleBasedAccess", "roleBasedAccess\roleBasedAccess.csproj", "{4E790A26-3EED-4273-86C2-864E1BE6F8B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{0F2F548C-859B-46BC-BB24-B850D4D8204E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F2F548C-859B-46BC-BB24-B850D4D8204E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F2F548C-859B-46BC-BB24-B850D4D8204E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E790A26-3EED-4273-86C2-864E1BE6F8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E790A26-3EED-4273-86C2-864E1BE6F8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E790A26-3EED-4273-86C2-864E1BE6F8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E790A26-3EED-4273-86C2-864E1BE6F8B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
