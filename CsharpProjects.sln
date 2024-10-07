@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theSwitch", "theSwitch\theS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertToSwitch", "convertToSwitch\convertToSwitch.csproj", "{4BC1D018-4ECA-4ABC-A020-54F335DD2BB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "updateProblematicCode", "updateProblematicCode\updateProblematicCode.csproj", "{C2BC24E1-C672-4E4B-A702-3385991F7F8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{4BC1D018-4ECA-4ABC-A020-54F335DD2BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BC1D018-4ECA-4ABC-A020-54F335DD2BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BC1D018-4ECA-4ABC-A020-54F335DD2BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BC24E1-C672-4E4B-A702-3385991F7F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BC24E1-C672-4E4B-A702-3385991F7F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BC24E1-C672-4E4B-A702-3385991F7F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BC24E1-C672-4E4B-A702-3385991F7F8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
