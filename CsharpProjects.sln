@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exploreWhile", "exploreWhil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roleBasedAccess", "roleBasedAccess\roleBasedAccess.csproj", "{4E790A26-3EED-4273-86C2-864E1BE6F8B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theSwitch", "theSwitch\theSwitch.csproj", "{E92E5688-B7FC-4AD6-B94D-7CD6703BC86D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{4E790A26-3EED-4273-86C2-864E1BE6F8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E790A26-3EED-4273-86C2-864E1BE6F8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E790A26-3EED-4273-86C2-864E1BE6F8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92E5688-B7FC-4AD6-B94D-7CD6703BC86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92E5688-B7FC-4AD6-B94D-7CD6703BC86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92E5688-B7FC-4AD6-B94D-7CD6703BC86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92E5688-B7FC-4AD6-B94D-7CD6703BC86D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
